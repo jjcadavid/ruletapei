@@ -1,0 +1,278 @@
+  Preguntas[0] = [
+    "¿ Cuál es el enfoque principal de la Institución de Educación Superior ITM ?",
+    [0, 0, 0, 0],
+    "El ITM se enfoca en ofrecer una educación de alta calidad con igualdad de oportunidades, promoviendo el desarrollo humano integral a través de la vocación tecnológica, científica, artística y humanística.",
+  ];
+  Preguntas[1] = [
+    "¿ Cuáles son las áreas clave en las que el ITM busca destacar para el año 2034 según su visión ?",
+    [0, 0, 0, 0],
+    "El ITM busca destacar como una comunidad académica investigativa e innovadora, enfocada en los ámbitos tecnológico, científico, artístico y humanista para educar con excelencia y consolidar una sociedad en equidad con la naturaleza.",
+  ];
+  Preguntas[2] = [
+    "¿ Cómo describe el ITM su posición en el contexto nacional e internacional para el año 2034 ?",
+    [0, 0, 0, 0],
+    "Para el año 2034, el ITM aspira a posicionarse como una entidad académica reconocida a nivel nacional e internacional por su diversidad, transparencia, eficiencia y flexibilidad en la educación con excelencia.",
+  ];
+  Preguntas[3] = [
+    "¿ Cuáles son los pilares que sustentan las acciones del ITM, según su misión institucional ?",
+    [0, 0, 0, 0],
+    "Las acciones del ITM se sustentan en la docencia, la investigación, la extensión, la internacionalización, el bienestar institucional y la proyección social.",
+  ];
+  Preguntas[4] = [
+    "¿ Qué objetivo fundamental busca alcanzar el ITM a largo plazo, según su visión para 2034 ?",
+    [0, 0, 0, 0],
+    "El ITM busca consolidar una sociedad de seres humanos capaces de convivir en paz y equidad con la naturaleza, educando con excelencia en diversos ámbitos para fomentar esta convivencia armónica.",
+  ];
+  Preguntas[5] = [
+    " ¿ Qué valor institucional del ITM enfatiza la importancia de promover la igualdad de oportunidades para todos los individuos, independientemente de sus diferencias ?",
+    [0, 0, 0, 0],
+    "Equidad e igualdad son valores centrales en el ITM, buscando garantizar oportunidades justas para todos.",
+  ];
+  Preguntas[6] = [
+    "¿ Cuál es el valor que destaca el compromiso del ITM hacia la integridad, la sinceridad y el comportamiento ético ?",
+    [0, 0, 0, 0],
+    "Honestidad es un valor fundamental que guía las acciones del ITM hacia la transparencia y la ética.",
+  ];
+  Preguntas[7] = [
+    "¿ Qué principio del ITM se enfoca en la aceptación y respeto hacia las diferencias individuales, culturales y sociales ?",
+    [0, 0, 0, 0],
+    "Diversidad y vida son valores que promueven la aceptación y valoración de las diferencias entre individuos y culturas.",
+  ];
+  Preguntas[8] = [
+    "¿ Cuál es el valor que refleja el compromiso del ITM hacia la formación integral de sus estudiantes, más allá del ámbito académico ?",
+    [0, 0, 0, 0],
+    "Formación integral es un valor que destaca la preocupación del ITM por el desarrollo completo de sus estudiantes, no solo en lo académico, sino también en lo personal y social.",
+  ];
+  Preguntas[9] = [
+    "¿ Qué valor del ITM se alinea con la promoción de un entorno de colaboración, solidaridad y armonía entre los miembros de la comunidad educativa ?",
+    [0, 0, 0, 0],
+    "Convivencia y cohesión social se centra en la importancia de fomentar la colaboración y la armonía entre todos los miembros de la comunidad educativa del ITM.",
+  ];
+  Preguntas[10] = [
+    "¿ Cuál es uno de los objetivos del ITM relacionado con la capacitación de los individuos para desempeñar roles profesionales, de investigación y servicio social ?",
+    [0, 0, 0, 0],
+    "Profundizar en la formación integral de los colombianos dentro de las modalidades y calidades de la Educación Superior.",
+  ];
+  Preguntas[11] = [
+    "¿ Qué objetivo del ITM busca ser un factor de desarrollo en múltiples esferas a nivel nacional y regional ?",
+    [0, 0, 0, 0],
+    "Ser factor de desarrollo científico, cultural, económico, político y ético a nivel nacional y regional.",
+  ];
+  Preguntas[12] = [
+    "¿ Cuál es uno de los objetivos del ITM que hace referencia a prestar servicios de calidad, considerando tanto resultados académicos como condiciones institucionales ?",
+    [0, 0, 0, 0],
+    "Prestar a la comunidad un servicio con calidad.",
+  ];
+  Preguntas[13] = [
+    "¿ Qué objetivo del ITM está orientado a contribuir al desarrollo de niveles educativos anteriores para facilitar la consecución de sus metas ?",
+    [0, 0, 0, 0],
+    "Contribuir al desarrollo de los niveles educativos que le preceden.",
+  ];
+  Preguntas[14] = [
+    "¿ Cuál es uno de los objetivos del ITM relacionado con la preservación del medio ambiente y la promoción de la educación ecológica ?",
+    [0, 0, 0, 0],
+    "Promover la preservación de un medio ambiente sano y fomentar la educación y cultura ecológica.",
+  ];
+  Preguntas[15] = [
+    "¿ Cómo se describe al estudiante en el enfoque educativo del ITM ?",
+    [0, 0, 0, 0],
+    "Como una persona en proceso de cambio, con habilidades únicas y influenciado por su entorno.",
+  ];
+  Preguntas[16] = [
+    "¿ Qué habilidades se fomentan en el estudiante según el modelo pedagógico del ITM ?",
+    [0, 0, 0, 0],
+    "Mejora del pensamiento crítico y sistémico, capacidad de aprendizaje autónomo y toma de decisiones para lograr objetivos personales, académicos e institucionales.",
+  ];
+  Preguntas[17] = [
+    "¿ Cuál es el enfoque de la Institución respecto a la formación de los estudiantes en el ITM ?",
+    [0, 0, 0, 0],
+    "Promover una formación autónoma y autorregulada centrada en la capacidad de aprender, pensamiento crítico, educación continua y responsabilidad ciudadana.",
+  ];
+  Preguntas[18] = [
+    "¿ Qué rol fundamental desempeña el docente del ITM en el proceso educativo ?",
+    [0, 0, 0, 0],
+    "Facilitador y mediador que guía el aprendizaje y la construcción de conocimiento de los estudiantes.",
+  ];
+  Preguntas[19] = [
+    "¿ Cuál es una característica esencial de los docentes del ITM según su formación integral ?",
+    [0, 0, 0, 0],
+    "Experto en su área de conocimiento con habilidades pedagógicas y didácticas, así como capacidades sociales, emocionales y éticas para interactuar con los estudiantes.",
+  ];
+  Preguntas[20] = [
+    "¿ Cómo se describen los distintos tipos de docentes según la relación establecida con la Institución en el ITM ?",
+    [0, 0, 0, 0],
+    "Aspirantes a carrera, vinculados, ocasionales, de cátedra, visitantes o ad-honórem, cada uno con funciones y periodos específicos según las necesidades de la institución.",
+  ];
+  Preguntas[21] = [
+    "¿ Cuál es uno de los roles fundamentales atribuidos a los egresados del ITM en la sociedad ?",
+    [0, 0, 0, 0],
+    "Generar crecimiento institucional y contribuir a resolver problemas y satisfacer necesidades sociales.",
+  ];
+  Preguntas[22] = [
+    "¿ Qué características definen al egresado del ITM en términos de su preparación para el mundo laboral y su impacto en la comunidad ?",
+    [0, 0, 0, 0],
+    "Está preparado para enfrentar retos laborales, adaptarse a cambios, ser agente de cambio en su comunidad y proponer soluciones desde su área de conocimiento.",
+  ];
+  Preguntas[23] = [
+    "¿ Cuál es una habilidad importante que se destaca en el perfil del egresado del ITM en relación con su interacción a nivel global ?",
+    [0, 0, 0, 0],
+    "Posee habilidades comunicativas, de negociación y una formación interdisciplinaria que le permite interactuar efectivamente en un entorno globalizado.",
+  ];
+  //Preguntas[24]=["¿ Qué se valora principalmente en la contribución de los empleados del ITM al funcionamiento de la institución ?",[0,0,0,0], "Compromiso, responsabilidad y excelencia en su trabajo."];
+  //Preguntas[25]=["¿ Cuál es una de las responsabilidades del personal directivo y administrativo en el ITM ?",[0,0,0,0], "Tareas relacionadas con la gestión institucional, como administración financiera, recursos humanos y servicios generales."];
+  //Preguntas[26]=["¿ Qué función desempeña el personal de servicios generales en el ITM ?",[0,0,0,0], "Se encargan del mantenimiento general, la limpieza, la seguridad y el funcionamiento de las instalaciones para garantizar la comodidad de estudiantes y empleados."];
+  Preguntas[24] = [
+    "¿ Cuál es uno de los objetivos principales de la colaboración entre el ITM y el sector productivo ?",
+    [0, 0, 0, 0],
+    "Discutir temas sobre desarrollo económico, problemas tecnológicos, formular proyectos comunes y facilitar experiencias de aprendizaje para los estudiantes.",
+  ];
+  Preguntas[25] = [
+    "¿ Qué papel desempeña el sector productivo en la promoción de ambientes propicios para la innovación y el emprendimiento según el enfoque del ITM ?",
+    [0, 0, 0, 0],
+    "Motivar la creación de ambientes creativos, críticos y de innovación para promover empresas y fortalecer la cultura emprendedora en diversas áreas del conocimiento.",
+  ];
+  Preguntas[26] = [
+    "¿ Qué tipo de colaboración se busca entre el ITM y el sector productivo para el desarrollo y la innovación según el enunciado ?",
+    [0, 0, 0, 0],
+    "Colaboración en proyectos de investigación, desarrollo e innovación, así como en experiencias de aprendizaje para los estudiantes de la institución.",
+  ];
+  Preguntas[27] = [
+    "¿ Cómo se define la docencia en el ITM ?",
+    [0, 0, 0, 0],
+    "La docencia se orienta al fomento del aprendizaje significativo, crítico y reflexivo de los estudiantes para aplicar lo aprendido en su desempeño profesional y vida cotidiana.",
+  ];
+  Preguntas[28] = [
+    "¿ Cuál es el papel fundamental de los docentes según el PEI ?",
+    [0, 0, 0, 0],
+    "Construir conocimientos, habilidades, actitudes y valores en profesionales competentes y ciudadanos comprometidos con su entorno.",
+  ];
+  Preguntas[29] = [
+    "¿ Qué implica la formación integral desde la perspectiva del ITM ?",
+    [0, 0, 0, 0],
+    "Va más allá de adquirir conocimientos y habilidades, contribuyendo a la transformación personal del individuo para intervenir en su realidad con una perspectiva crítica y comprometida.",
+  ];
+  Preguntas[30] = [
+    "¿ Cómo define la Institución la relación entre tecnología y desarrollo humano ?",
+    [0, 0, 0, 0],
+    "Existe una estrecha relación entre tecnología y desarrollo humano, influenciando aspectos sociales, económicos, políticos, ambientales y culturales.",
+  ];
+  Preguntas[31] = [
+    "¿ Qué estrategias didácticas se promueven en el ITM ?",
+    [0, 0, 0, 0],
+    "Se fomentan estrategias como el aprendizaje basado en problemas, el aprendizaje cooperativo, el aprendizaje colaborativo, entre otros, para impulsar un aprendizaje activo y participativo.",
+  ];
+  Preguntas[32] = [
+    " ¿ Qué tipos de evaluación se destacan en el enfoque educativo del ITM ?",
+    [0, 0, 0, 0],
+    "La evaluación puede ser diagnóstica, formativa o sumativa, realizada en momentos iniciales, procesales o finales, e involucra la autoevaluación, coevaluación y heteroevaluación para brindar retroalimentación.",
+  ];
+  Preguntas[33] = [
+    "¿ Qué criterios transversales al currículo se consideran esenciales en el ITM ?",
+    [0, 0, 0, 0],
+    "Flexibilidad, interdisciplinariedad, transdisciplinariedad, interculturalidad y otros inherentes a la identidad institucional.",
+  ];
+  Preguntas[34] = [
+    "¿ Qué significa la interdisciplinariedad en el contexto del ITM ?",
+    [0, 0, 0, 0],
+    "Implica un diálogo entre saberes y métodos de diferentes disciplinas para abordar problemas complejos y generar soluciones innovadoras.",
+  ];
+  Preguntas[35] = [
+    "¿ Cómo financia el ITM su sistema de Ciencia, Tecnología e Innovación (CTI) ?",
+    [0, 0, 0, 0],
+    "El ITM financia su sistema de CTI con recursos del presupuesto institucional, incluyendo recursos propios, transferencias para inversión, rentas por transferencia y comercialización de tecnologías, además de recursos de regalías y otras fuentes externas, priorizando el beneficio público y el progreso del territorio.",
+  ];
+  Preguntas[36] = [
+    "¿ Qué importancia tiene la investigación básica para el ITM en relación con la investigación aplicada y la investigación-creación ?",
+    [0, 0, 0, 0],
+    "La investigación básica es fundamental para generar conocimientos fundamentales. El enfoque principal del ITM está en la investigación aplicada y la investigación-creación, que se relacionan directamente con procesos de diseño y producción, cruciales para generar nuevo conocimiento y desarrollo tecnológico transferible en ámbitos sociales y productivos.",
+  ];
+  Preguntas[37] = [
+    "¿ Cuál es la visión del ITM respecto a la investigación formativa y la formación en investigación ?",
+    [0, 0, 0, 0],
+    "El ITM considera la investigación formativa como una oportunidad para fomentar vocaciones científicas y el relevo generacional en CTI, enfocándose en el desarrollo de competencias desde los programas de estudio y a través de programas que incluyen semilleros de investigación y formación en habilidades técnicas y metodológicas.",
+  ];
+  Preguntas[38] = [
+    "¿ Cómo se lleva a cabo la investigación de alto nivel en el ITM y cuál es su enfoque ?",
+    [0, 0, 0, 0],
+    "El ITM se enfoca en actividades de investigación para generar conocimiento científico, tecnológico, humanístico, artístico y cultural que contribuya al desarrollo social, económico, ambiental y sostenible del territorio. Esta investigación se realiza a través de proyectos formales de diferentes tipos, desde investigación básica hasta innovación, con un impacto que trasciende lo local.",
+  ];
+  Preguntas[39] = [
+    "¿ Cómo se vinculan las actividades de investigación con los programas académicos en el ITM ?",
+    [0, 0, 0, 0],
+    "Las actividades de investigación están articuladas con los programas académicos, asegurando la actualización de estos programas en consonancia con los nuevos descubrimientos, métodos y su aplicación en el ámbito profesional.",
+  ];
+  Preguntas[40] = [
+    "¿ Cómo define el ITM la extensión académica y cuáles son sus modalidades ?",
+    [0, 0, 0, 0],
+    "La extensión académica se define como una función misional que ofrece servicios de formación integral, consultorías, formación continua, interventorías, articulación con la media técnica, proyectos especiales y gestión de laboratorios, todo enfocado en adquirir conocimientos, habilidades y técnicas.",
+  ];
+  Preguntas[41] = [
+    "¿ Cuál es el propósito de la proyección social en el ITM y qué modalidades se destacan en esta área ?",
+    [0, 0, 0, 0],
+    "La proyección social busca fortalecer la interacción con el entorno, siendo un aliado estratégico para solucionar problemáticas del entorno. Las modalidades incluyen asesorías, talleres, voluntariado y proyectos especiales orientados a abordar necesidades sociales y productivas.",
+  ];
+  Preguntas[42] = [
+    "¿ Cómo contribuye la extensión del ITM a la apropiación social del conocimiento ?",
+    [0, 0, 0, 0],
+    "La extensión contribuye a la apropiación social del conocimiento implementando programas y proyectos transversales que permiten a las comunidades conocer, comprender y adaptar tecnologías para satisfacer sus necesidades, fortaleciendo el conocimiento y uso del patrimonio natural y cultural.",
+  ];
+  Preguntas[43] = [
+    "¿ Cuál es la relación entre la extensión académica y la docencia en el ITM ?",
+    [0, 0, 0, 0],
+    "La extensión académica se articula con la docencia ofreciendo servicios de formación integral que complementan la enseñanza, con programas y proyectos de alta relevancia en Ciencia, Tecnología e Innovación (CTI), así como asesorías y consultorías especializadas.",
+  ];
+  Preguntas[44] = [
+    "¿ En qué se fundamenta la extensión y la proyección social según la visión del ITM ?",
+    [0, 0, 0, 0],
+    "La extensión y proyección social se fundamentan en la transferencia y apropiación del conocimiento y los resultados generados a través de actividades de investigación, innovación y experiencia académica, con el objetivo de abordar problemas y desafíos sociales, económicos y tecnológicos, mejorando la calidad de vida de las personas en diferentes contextos.",
+  ];
+  Preguntas[45] = [
+    "¿ Cuál es el impacto de la cultura de la internacionalización en las funciones esenciales del ITM ?",
+    [0, 0, 0, 0],
+    "La cultura de la internacionalización contribuye a fortalecer las funciones sustantivas de la docencia, investigación y extensión al promover una educación inclusiva, equitativa y de calidad, además de garantizar la pertinencia de la enseñanza y la investigación al servicio de las necesidades de los territorios.",
+  ];
+  Preguntas[46] = [
+    "¿ Cómo se benefician los estudiantes, profesores, investigadores y personal administrativo del ITM mediante la internacionalización ?",
+    [0, 0, 0, 0],
+    "La internacionalización les permite cultivar capacidades internacionales, dialogar críticamente con otras culturas, generar buenas prácticas, adquirir nuevas habilidades, metodologías de trabajo, competencia comunicativa en lenguas extranjeras y visiones del mundo, enriqueciendo así sus experiencias y aprendizajes pertinentes.",
+  ];
+  Preguntas[47] = [
+    "¿ Qué estrategias utiliza el ITM para la internacionalización de sus procesos formativos, investigativos y de extensión ?",
+    [0, 0, 0, 0],
+    "Se enfoca en la diplomacia científica para establecer estrategias de cooperación científica con redes, grupos científicos y actores gubernamentales a nivel nacional e internacional. Esto implica fomentar intercambios académicos, desarrollar proyectos de cooperación internacional, innovar en métodos pedagógicos y promover competencias comunicativas en lenguas extranjeras.",
+  ];
+  Preguntas[48] = [
+    "¿ Cuál es el propósito de la diplomacia científica en el contexto de la internacionalización del ITM ?",
+    [0, 0, 0, 0],
+    "La diplomacia científica busca generar formas de colaboración entre grupos científicos y actores estatales para abordar retos comunes y problemáticas locales y globales, promoviendo la resolución de desafíos a través de la colaboración internacional.",
+  ];
+  Preguntas[49] = [
+    "¿ Cómo impacta la cultura de la internacionalización en la comunidad del ITM y en la sociedad en general ?",
+    [0, 0, 0, 0],
+    "La internacionalización orientada por esta cultura impulsa a la comunidad del ITM a participar en un contexto global, entendiendo sus diversos mundos locales y globales (glocales), generando oportunidades para transformar la vida de la comunidad y contribuir al desarrollo de una sociedad equitativa, sostenible e inteligente.",
+  ];
+  Preguntas[50] = [
+    "¿ Cómo se define y cómo se integra el bienestar institucional en la misión y propósitos del ITM ?",
+    [0, 0, 0, 0],
+    "El bienestar institucional se concibe como una función, proceso, ecosistema, cultura y comunidad. Es una responsabilidad compartida que se integra en la misión y propósitos de la Institución, colocando a las personas en el centro de dichos propósitos.",
+  ];
+  Preguntas[51] = [
+    "¿ Cuáles son los elementos clave que componen la visión dinámica y compleja del bienestar en la institución ?",
+    [0, 0, 0, 0],
+    "El bienestar se conforma como un proceso dinámico que abarca las relaciones consigo mismo, con los otros y con lo otro, así como la preocupación genuina por los demás y la prevención en el actuar para no afectar el bienestar en sus diversas dimensiones. Esta visión incluye también la ecología humana y una cultura de cuidado y solidaridad.",
+  ];
+  Preguntas[52] = [
+    "¿ Qué papel desempeñan las diferentes dependencias y actores institucionales en la construcción del bienestar en el ITM ?",
+    [0, 0, 0, 0],
+    "Las dependencias y los actores institucionales se articulan para diseñar, ejecutar y participar en proyectos, programas y actividades que satisfacen las necesidades, intereses y capacidades de la comunidad ITM. A través de esta colaboración, se promueve un entorno de bienestar que trasciende a la sociedad.",
+  ];
+  Preguntas[53] = [
+    "¿ Cuáles son las estrategias y programas específicos que implementa la institución para promover el bienestar en su comunidad académica ?",
+    [0, 0, 0, 0],
+    "Va más allá de adquirir conocimientos y habilidades, contribuyendo a la transformación personal del individuo para intervenir en su realidad con una perspectiva crítica y comprometida.",
+  ];
+  Preguntas[54] = [
+    "¿ Cómo se relaciona el concepto de bienestar en el ITM con la transmisión de valores, el desarrollo humano y la búsqueda de la felicidad tanto a nivel individual como colectivo en la sociedad ?",
+    [0, 0, 0, 0],
+    "El bienestar en el ITM busca transmitir valores y filosofía institucional, promoviendo una comunidad armónica donde se reconozca la dignidad humana y se propicie la satisfacción, el desarrollo personal y relaciones armoniosas. Esta búsqueda se expande hacia la sociedad, facilitando el camino hacia una búsqueda responsable y reflexiva de la felicidad.",
+  ];
